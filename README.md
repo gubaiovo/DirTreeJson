@@ -7,8 +7,6 @@ Convert the local directory tree into structured JSON.
 
 ## Usage/Examples
 
-Write the files or folders to ignore in the '.ignore' file, one per line.
-
 ```bash
-python main.py target_path
+python main.py
 ```
